@@ -109,9 +109,7 @@ int main(){
             }
 
             printf("%d ", tabuleiro[i][j]);//Imprime os 0's
-            if(i == 3 && j == 4){
-                cone();
-                }
+                
             }
         printf("\n");
     }
